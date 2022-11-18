@@ -18,8 +18,10 @@ export default function Home() {
               - KDDI Corporation
             </h2>
             <p className="dark:text-gray-200 mb-4">
-              Deputy Chief Operating Officer Global Consumer Business
-              Development Division Global Consumer Business Sector
+              Deputy Chief Operating Officer <br></br>
+              Global Consumer Business<br></br>
+              Development Division <br></br>
+              Global Consumer Business Sector
             </p>
             <h2 className="mt-4 font-semibold text-gray-700 dark:text-gray-200 mb-4">
               - Mobicom Corporation LLC
@@ -41,7 +43,7 @@ export default function Home() {
           </div>
         </div>
         <h5 className="font-bold text-1xl md:text-2xl tracking-tight mb-6 mt-4 text-black dark:text-white">
-          Business card
+          Business name card
         </h5>
         <div className="flex gap-6 flex-col md:flex-row">
           <BlogPostCard gradient="from-[#6EE7B7] via-[#3B82F6] to-[#9333EA]" />
